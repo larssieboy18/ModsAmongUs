@@ -1,5 +1,7 @@
 # Syyreth's ModsAmongUs Among Us Modpack
 
+Adjusted list made for [Creeper Town](https://go.creeper.town/discord)
+
 **Crewmate Roles:**<br/>
   [V.I.P](#vip)<br/>
   [Captain](#captain)<br/>
@@ -48,39 +50,6 @@
   [Hex Master](#hex-master)<br/>
   [Poisoner](#poisoner)<br/>
   
-  **NEW Colors:**<br/>
-  Peach<br/>
-  Mango<br/>
-  Raspberry<br/>
-  Pear<br/>
-  Blueberry<br/>
-  Bubblegum<br/>
-  Apple<br/>
-  Lemon<br/>
-  Peach<br/>
-  Rainbow<br/>
-
-# Download
-**DO NOT PLAY ON DEFAULT REGIONS (NA/EUROPE/ASIA). BE SURE TO USE A CUSTOM REGION TO AVOID YOUR ACCOUNT GETTING BANNED!**<br/>
-This is the first release, so may have some bugs. Please report them and I can fix them A.S.A.P :)<br/><br/>
-[**2021.6.30 - V3.1.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v3.1.1/ModsAmongUs-2021.06.30.zip)<br/>
-[**2021.6.15 - V2.0.4**](https://github.com/Syyreth/ModsAmongUs/releases/download/v.2.0.4/ModsAmongUs-2021.06.15.zip)<br/>
-[**2021.5.25.2 - V2.0.2**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.2/ModsAmongUs-2021.05.25.2.zip)<br/>
-[**2021.5.10 - V2.0.1**](https://github.com/Syyreth/ModsAmongUs/releases/download/v2.0.1/ModsAmongUs-2021.05.10.zip)<br/><br/>
-**Support:** https://discord.gg/r5ewmf7sqf</br>
-**Twitch:** https://www.twitch.tv/syyreth
-
-# Installation Guide
-**1:** Open Steam and locate Among Us in your library.<br/>
-**2:** Right click the game and select properties.<br/>
-**3:** Click Local Files and then Browse.<br/>
-**4:** Download the mod.<br/>
-**5:** Extract everything into your Among Us directory, replacing anything that needs to be replaced.<br/>
-**6:** Open up the Bepinex Folder, Open the Config Folder, and then Open "Syyreth.plugins.ModsAmongUs".<br/>
-**7:** Enter the information of your Custom Server.<br/>
-**8:** Save the file and close out of it.<br/>
-**9:** Open up Among Us.<br/>
-**10:** First installation will take a small while, but after that, it should load up as normal.
 # Crewmate Roles:
 ## V.I.P
 **Inspiration from Town of Salem**<br/>
@@ -467,15 +436,3 @@ The Poisoner is a role that can poison any player. At meetings, a player will se
 |Chance|0%-100%|0%|Chance of Poisoner Spawning|
 |Poison Cooldown|10s-60s|30s|The cooldown of Poisoning a player|
 ![alt text](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Poisoner.png)
-
-# References:
-[**Reactor:**](https://github.com/NuclearPowered/Reactor) Mod Framework<br/>
-[**Daemon's Reactor**](https://github.com/DaemonBeast/Reactor) Mod Framework fork updated to the latest version<br/>
-[**Bepinex:**](https://github.com/BepInEx) Hooking into and patching the game.<br/>
-[**CooldownButton**](https://gist.github.com/gabriel-nsiqueira/827dea0a1cdc2210db6f9a045ec4ce0a) Creating and using a button.
-[**Town of Us:**](https://github.com/slushiegoose/Town-Of-Us) Role inspiration for Chronos and Swapper<br/>
-[**Woodi-Sherrif Mod:**](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod) For teaching me and helping with the Vigilante mod.<br/>
-[**Woodi-Lovers Mod:**](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod) Inspiration for the lovers role.<br/>
-[**Extra-Roles Mod:**](https://github.com/NotHunter101/ExtraRolesAmongUs) For inspiration for the engineer.<br/>
-[**Ottomated:**](https://github.com/ottomated) For inspiration for the Morpher and Guardian.<br/>
-**Submarine Team:** Inspiration on the FlashBang.

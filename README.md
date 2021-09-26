@@ -4,20 +4,20 @@ Adjusted list made for [Creeper Town](https://go.creeper.town/discord)
 
 **Crewmate Roles:**<br/>
   [V.I.P](#vip) - If they die, the Impostors win.<br/>
-  [Captain](#captain)<br/>
-  [Vigilante](#vigilante)<br/>
-  [Guardian](#guardian)<br/>
-  [Investigator](#investigator)<br/>
-  [Swapper](#swapper)<br/>
-  [Engineer](#engineer)<br/>
-  [Visionary](#visionary)<br/>
-  [Chronos](#chronos) <br/>
-  [Retributionist](#retributionist) <br/>
-  [Lookout](#lookout) </br>
-  [Tracker](#tracker)<br/>
-  [Pilot](#pilot)<br/>
-  [Drainer](#drainer)<br/>
-  [Lovers](#lovers) </br>
+  [Captain](#captain) - Similar to Mayor, the Captain can choose to reveal themselves during meetings, after which their voting power gets multiplied.<br/>
+  [Vigilante](#vigilante) - Similar to Sheriff, the Vigilante can kill other players. If they kill an Impostor/Neutral, the target gets killed, otherwise both the Vigilante and the target die.<br/>
+  [Guardian](#guardian) - Similar to Medic, the Guardian can shield a player of their choice for 10 seconds.<br/>
+  [Investigator](#investigator) - Similar to Snitch, the Investigator can see the faction of a single player after they have done their tasks (some exceptions apply).<br/>
+  [Swapper](#swapper) - Similar to Swapper (ToU), the Swapper can swap around votes during meetings. If the swapped players survive, their bodies <br/>
+  [Engineer](#engineer) - Similar to Engineer (ToU & TOO), the Engineer can vent and repair emergencies from anywhere.<br/>
+  [Visionary](#visionary) - On odd numbered meetings, the Visionary will receive 3 names in chat, and 3 people will be highlighted red. At LEAST 1 of those 3 people will be evil, it could either be 1, 2, or all 3. On even numbered meetings, the Visionary will receive 2 names in chat, and 2 people will be highlighted blue. At LEAST 1 of those 2 people will be crew, it could either be 1, or both.<br/>
+  [Chronos](#chronos) - Similar to Time Lord (ToU), the Chronos is able to rewind time. Players that died during that time get ressurected.<br/>
+  [Retributionist](#retributionist) - Similar to Altruist, they sacrifise themselves to resurrect another player. If a meeting is called within that time, the revive fails.<br/>
+  [Lookout](#lookout) - Is able to zoom out and view the entire map. (Bugged?)</br>
+  [Tracker](#tracker) - The Tracker is a player which can track one player per round.<br/>
+  [Pilot](#pilot) - The Pilot can see admin from anywhere and call 1 meeting per game whenever they like, also during sabotages.<br/>
+  [Drainer](#drainer) - The Drainer is a player who once per round, can block out the use of a vent once per game. Players inside the vent while it is being drained are killed.<br/>
+  [Lovers](#lovers) - The Lovers are 2 players from any faction who are in love with each other. If one lover dies by any means, the second lover will instantly commit suicide.</br>
 
 **Neutral Roles:**<br/>
   [Executioner](#executioner) - Get your target voted out to win.<br/>

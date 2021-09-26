@@ -3,7 +3,7 @@
 Adjusted list made for [Creeper Town](https://go.creeper.town/discord)
 
 **Crewmate Roles:**<br/>
-  [V.I.P](#vip)<br/>
+  [V.I.P](#vip) - If they die, the Impostors win.<br/>
   [Captain](#captain)<br/>
   [Vigilante](#vigilante)<br/>
   [Guardian](#guardian)<br/>

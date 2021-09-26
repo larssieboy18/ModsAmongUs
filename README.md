@@ -20,33 +20,33 @@ Adjusted list made for [Creeper Town](https://go.creeper.town/discord)
   [Lovers](#lovers) </br>
 
 **Neutral Roles:**<br/>
-  [Executioner](#executioner)<br/>
-  [Jester](#jester)<br/>
+  [Executioner](#executioner) - Get your target voted out to win.<br/>
+  [Jester](#jester) - Get yourself voted out.<br/>
   [Phantom](#phantom)<br/>
-  [Arsonist](#arsonist)<br/>
-  [Ghoul](#ghoul)<br/>
-  [Plaguebearer](#plaguebearer)<br/>
+  [Arsonist](#arsonist) - Douse everyone to win.<br/>
+  [Ghoul](#ghoul) - Haunt the imposters after death to win.<br/>
+  [Plaguebearer](#plaguebearer) - Infect everyone to become Pestilence.<br/>
   [Angel](#angel)<br/>
-  [Serial Killer](#serial-killer)<br/>
-  [Survivor](#survivor)<br/>
+  [Serial Killer](#serial-killer) - Kill everyone to win.<br/>
+  [Survivor](#survivor) - Survive to win.<br/>
 
 **Impostor Roles:**<br/>
-  [Janitor](#janitor)<br/>
-  [Morpher](#morpher)<br/>
-  [Spy](#spy)<br/>
-  [Consort](#consort)<br/>
-  [The Stealth](#the-stealth)<br/>
-  [Graverobber](#graverobber)<br/>
-  [FlashBang](#flashbang)<br/>
-  [Blackmailer](#blackmailer)<br/>
-  [Bounty Hunter](#bounty-hunter)<br/>
-  [AntiTasker](#antitasker)<br/>
+  [Janitor](#janitor) - Clean up bodies.<br/>
+  [Morpher](#morpher) - Change your form.<br/>
+  [Spy](#spy) - Place down a camera and bug the admin table.<br/>
+  [Consort](#consort) - <br/>
+  [The Stealth](#the-stealth) - Turn invisible and be sneaky with your kills.<br/>
+  [Graverobber](#graverobber) - Drag around bodies so no one disacovers them.<br/>
+  [FlashBang](#flashbang) - Blind people to make sneaky kills.<br/>
+  [Blackmailer](#blackmailer) - Blackmail people so they cant talk in meetings.<br/>
+  [Bounty Hunter](#bounty-hunter) - Kill the bounty to decrease your cooldown.<br/>
+  [AntiTasker](#antitasker) - Prevent people from doing their tasks.<br/>
   
   **Coven Roles:**<br/>
-  [Witch](#witch)<br/>
-  [Medusa](#medusa)<br/>
-  [Potion Master](#potion-master)<br/>
-  [Necromancer](#necromancer)<br/>
+  [Witch](#witch) - Take control of people and make them kill.<br/>
+  [Medusa](#medusa) - Turn people to stone.<br/>
+  [Potion Master](#potion-master) - Confuse and kill people with potions.<br/>
+  [Necromancer](#necromancer) - Take a form of the dead.<br/>
   [Hex Master](#hex-master)<br/>
   [Poisoner](#poisoner)<br/>
   
